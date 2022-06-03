@@ -1,0 +1,17 @@
+.qr_code {
+    width: 1155px;
+}
+
+#container {
+    position: absolute;
+    top: 358px;
+    left: 78px;
+    display: flex;
+    width: 1015px;
+    flex-wrap: wrap;
+}
+
+.square {
+    width: 35px;
+    height: 35px;
+}
